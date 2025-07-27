@@ -135,7 +135,7 @@ http://127.0.0.1:5000/
 ## 🤝 Credits
 
 * Dataset Source: [Kaggle - Diamond Price Dataset](https://www.kaggle.com/datasets/shivam2503/diamonds)
-* Created by: *Your Name*
+* Created by: *Aditya Kumar Pandey*
 
 ---
 
